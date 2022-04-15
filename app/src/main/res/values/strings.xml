@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VideoPhaser</string>
+    <string name="ffmpeg_tag">OpenGl+EGL 渲染</string>
+</resources>

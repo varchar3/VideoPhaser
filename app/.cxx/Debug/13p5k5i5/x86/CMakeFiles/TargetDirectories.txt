@@ -1,0 +1,3 @@
+D:/VideoPhaser/app/.cxx/Debug/13p5k5i5/x86/CMakeFiles/native-lib.dir
+D:/VideoPhaser/app/.cxx/Debug/13p5k5i5/x86/CMakeFiles/edit_cache.dir
+D:/VideoPhaser/app/.cxx/Debug/13p5k5i5/x86/CMakeFiles/rebuild_cache.dir

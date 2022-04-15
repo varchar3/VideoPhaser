@@ -1,0 +1,1 @@
+ninja: error: 'D:/VideoPhaser/app/src/main/jniLibs/arm64-v8a/libavutil.so', needed by 'D:/VideoPhaser/app/build/intermediates/cxx/Debug/13p5k5i5/obj/arm64-v8a/libnative-lib.so', missing and no known rule to make it

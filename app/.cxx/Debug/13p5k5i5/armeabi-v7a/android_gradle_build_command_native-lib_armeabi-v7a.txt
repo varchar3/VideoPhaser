@@ -1,0 +1,7 @@
+Executable : C:\Users\Administrator\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+D:\VideoPhaser\app\.cxx\Debug\13p5k5i5\armeabi-v7a
+native-lib
+jvmArgs : 
+

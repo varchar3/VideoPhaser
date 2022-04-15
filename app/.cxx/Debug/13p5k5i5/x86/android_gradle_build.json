@@ -1,0 +1,46 @@
+{
+  "buildFiles": [
+    "D:\\VideoPhaser\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\VideoPhaser\\app\\.cxx\\Debug\\13p5k5i5\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\VideoPhaser\\app\\.cxx\\Debug\\13p5k5i5\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "native-lib",
+      "output": "D:\\VideoPhaser\\app\\build\\intermediates\\cxx\\Debug\\13p5k5i5\\obj\\x86\\libnative-lib.so",
+      "runtimeFiles": [
+        "D:\\VideoPhaser\\app\\src\\main\\jniLibs\\x86\\libavutil.so",
+        "D:\\VideoPhaser\\app\\src\\main\\jniLibs\\x86\\libavcodec.so",
+        "D:\\VideoPhaser\\app\\src\\main\\jniLibs\\x86\\libavdevice.so",
+        "D:\\VideoPhaser\\app\\src\\main\\jniLibs\\x86\\libavformat.so",
+        "D:\\VideoPhaser\\app\\src\\main\\jniLibs\\x86\\libavfilter.so",
+        "D:\\VideoPhaser\\app\\src\\main\\jniLibs\\x86\\libswscale.so",
+        "D:\\VideoPhaser\\app\\src\\main\\jniLibs\\x86\\libswresample.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
